@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import AboutImg from "../public/assets/photo.jpg";
-import EnvArina from "../.env";
+// import EnvArina from "../.env";
 
 const About = () => {
   return (
