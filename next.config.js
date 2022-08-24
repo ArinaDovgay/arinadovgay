@@ -6,7 +6,7 @@ const nextConfig = {
     path: "", 
   },
   swcMinify: true,
-  basePath: "/arinadovgay",
+  // basePath: "/",
   assetPrefix: "/arinadovgay",
 }
 
