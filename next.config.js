@@ -1,13 +1,16 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  images: {
-    loader: "akamai",
-    path: "", 
-  },
-  swcMinify: true,
-  basePath: "/arinadovgay",
-  assetPrefix: "/arinadovgay",
+// /** @type {import('next').NextConfig} */
+// const nextConfig = {
+//   reactStrictMode: true,
+//   images: {
+//     loader: "akamai",
+//     path: "",
+//   },
+//   swcMinify: true,
+//   basePath: "/arinadovgay",
+//   assetPrefix: "/arinadovgay",
+// }
+//
+// module.exports = nextConfig
+module.exports = {
+  output: 'standalone',
 }
-
-module.exports = nextConfig
