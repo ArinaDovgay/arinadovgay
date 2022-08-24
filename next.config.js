@@ -7,7 +7,7 @@ const nextConfig = {
   },
   swcMinify: true,
   basePath: "/arinadovgay",
-  assetPrefix: "/arinadovgay",
+  assetPrefix: "/bulshit",
 }
 
 module.exports = nextConfig
